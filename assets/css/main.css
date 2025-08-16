@@ -4485,3 +4485,7 @@ h2 {
     margin: 0; /* Resets margin if needed */
 }
 
+#header h1 {
+    text-align: center;
+    width: 100%; /* This is important to ensure it takes up the full width */
+}
