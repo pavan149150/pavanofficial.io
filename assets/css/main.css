@@ -3381,10 +3381,11 @@ input, select, textarea {
 		padding: 10em 0 4.75em 0 ;
 	}
 
-		#banner .inner {
-			margin: 0 auto;
-			width: 55em;
-		}
+#banner .inner {
+    margin: 0 auto;
+    width: 55em;
+    text-align: center; /* Add this line */
+}
 
 		#banner .logo {
 			-moz-transition: opacity 2s ease, -moz-transform 1s ease;
